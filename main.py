@@ -23,7 +23,7 @@ def send_welcome(message):
     markup = InlineKeyboardMarkup()
     web_button = InlineKeyboardButton(
         text="🌐 Visit Our Website",
-        url="https://ethio-online-market-w6ew.onrender.com"
+        url="https://ethio-online-market-reuk.onrender.com"
     )
     markup.add(web_button)
 
